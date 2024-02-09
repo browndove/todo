@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "todo",
-    "slug": "todo",
+    "name": "todo_by_chris",
+    "slug": "Chris_todo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/todo.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/todo.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
